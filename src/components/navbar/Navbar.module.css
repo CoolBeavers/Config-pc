@@ -1,0 +1,15 @@
+.block {
+  @apply md:flex flex-row items-center justify-between
+}
+
+.link {
+  @apply hover:text-[#E55D87] ease-linear duration-200
+}
+
+.block__inner {
+  @apply flex content-center flex-wrap justify-center xl:space-x-9 md:space-x-7
+}
+
+.link__login {
+  @apply text-center bg-gradient-to-r from-[#E55D87] to-[#A06EF3] w-32 h-14 rounded-2xl hover:from-[#A06EF3] hover:to-[#E55D87]
+}

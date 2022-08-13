@@ -1,0 +1,27 @@
+.block {
+  @apply flex justify-between mt-16
+}
+
+.block__inner {
+  @apply flex flex-col justify-center
+}
+
+.header {
+  @apply text-8xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-[#E55D87] to-[#A06EF3]
+}
+
+.header__inner {
+  @apply text-xl mt-10 w-[600px]
+}
+
+.link {
+  @apply font-semibold mt-16 bg-gradient-to-r from-[#E55D87] to-[#A06EF3] w-[200px] h-[60px] rounded-2xl hover:from-[#A06EF3] hover:to-[#E55D87]
+}
+
+.span {
+  @apply underline decoration-2 underline-offset-4 decoration-[#E55D87]
+}
+
+.img {
+  @apply absolute w-[600px] h-[600px]
+}

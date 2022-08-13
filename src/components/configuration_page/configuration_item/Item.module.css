@@ -1,0 +1,35 @@
+.bg {
+  @apply bg-gray-900 rounded-lg border border-gray-800 w-full max-w-sm shadow-md 
+}
+
+.img {
+  @apply rounded-t-lg
+}
+
+.type {
+  @apply text-xs pb-1
+}
+
+.header {
+  @apply mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white
+}
+
+.desc {
+  @apply mb-3 font-normal text-gray-700 dark:text-gray-400
+}
+
+.price {
+  @apply text-3xl font-bold text-gray-900 dark:text-white
+}
+
+.btn {
+  @apply inline-flex items-center py-2 px-3 text-sm font-medium text-center text-white bg-gradient-to-r from-[#E55D87] to-[#A06EF3] rounded-lg hover:from-[#A06EF3] hover:to-[#E55D87] focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800
+}
+
+.btn__box {
+  @apply flex justify-between items-center
+}
+
+.svg {
+  @apply ml-2 -mr-1 w-4 h-4
+}

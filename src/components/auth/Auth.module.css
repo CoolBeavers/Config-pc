@@ -1,0 +1,31 @@
+.main {
+  @apply flex flex-row justify-around min-h-[100vh] items-center
+}
+
+.header {
+  @apply font-bold text-2xl mb-12 text-center
+}
+
+.btn {
+  @apply mt-5 bg-gradient-to-r from-[#E55D87] to-[#A06EF3] w-52 h-14 rounded-2xl hover:from-[#A06EF3] hover:to-[#E55D87]
+}
+
+.link {
+  @apply text-[#A06EF3] hover:text-[#E55D87] ease-linear duration-200
+}
+
+.img {
+  @apply rounded-3xl bg-black opacity-70
+}
+
+.box__header {
+  @apply flex flex-col justify-center
+}
+
+.box__btn {
+  @apply flex justify-center
+}
+
+.box__link {
+  @apply mt-4 text-center
+}
