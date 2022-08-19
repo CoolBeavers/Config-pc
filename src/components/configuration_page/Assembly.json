@@ -3,7 +3,63 @@
       "title": "Nvidia 1050Ti",
       "type": "Видеокарта",
       "price": 899,
-      "img": "https://avatars.mds.yandex.net/get-zen_doc/1578906/pub_5e0e1817433ecc00ae3fa55c_5e0e1872aad43600ae40f6de/scale_1200",
+      "img": "https://avatars.mds.yandex.net/get-zen_doc/5221947/pub_60e15b26716f6b471ae3fc68_60e15b271d2bc37b18776a00/scale_1200",
+      "description": "ASUS Cerberus GeForce GTX 1050 Ti OC Edition - это высокопроизводительная графическая карта, которая спроектирована с повышенной надежностью и игровой производительностью"
+    },
+    {
+      "title": "AMD FX-4300 Box",
+      "type": "Процессор",
+      "price": 560,
+      "img": "https://sun9-2.userapi.com/impf/m0xC9iiBbm4c6QshvDxCx5Yr_nG01LYMWQLCyw/XOYcB7lmxUY.jpg?size=1280x853&quality=95&sign=b92ce43a2a8ac246b4aaea3e3b140d24&c_uniq_tag=AQtyN3_t2d1YkI2McvGrXAFklvCa3hDd4eqjN8ptnko&type=album",
+      "description": "Представляем видеокарту AMD Radeon™ RX 6600 на базе революционной архитектуры AMD RDNA™ 2. Она обеспечивает невероятное изображение в играх с разрешением 1080p"
+    },
+    {
+      "title": "Nvidia 1050Ti",
+      "type": "Материнская плата",
+      "price": 899,
+      "img": "https://i.ytimg.com/vi/gV9vIgi3Liw/maxresdefault.jpg?7857057827",
+      "description": "ASUS Cerberus GeForce GTX 1050 Ti OC Edition - это высокопроизводительная графическая карта, которая спроектирована с повышенной надежностью и игровой производительностью"
+    },
+    {
+      "title": "Nvidia 1050Ti",
+      "type": "Охлаждение",
+      "price": 899,
+      "img": "https://ggflan.com/wp-content/uploads/2016/05/P2650333.jpg",
+      "description": "ASUS Cerberus GeForce GTX 1050 Ti OC Edition - это высокопроизводительная графическая карта, которая спроектирована с повышенной надежностью и игровой производительностью"
+    },
+    {
+      "title": "Nvidia 1050Ti",
+      "type": "Оперативная память",
+      "price": 899,
+      "img": "https://knowtechie.com/wp-content/uploads/2019/04/hyperx-predator-ddr4-crossed.jpg",
+      "description": "ASUS Cerberus GeForce GTX 1050 Ti OC Edition - это высокопроизводительная графическая карта, которая спроектирована с повышенной надежностью и игровой производительностью"
+    },
+    {
+      "title": "Nvidia 1050Ti",
+      "type": "Блок питания",
+      "price": 899,
+      "img": "https://www.hardwareluxx.ru/images/cdn01/07049B7E3612455DADC5924936273BFC/img/D452F2A21B4F449FA0B3525DE5C881B5/thermaltake_toughpower_pf1_argb_850w_39_D452F2A21B4F449FA0B3525DE5C881B5.jpg",
+      "description": "ASUS Cerberus GeForce GTX 1050 Ti OC Edition - это высокопроизводительная графическая карта, которая спроектирована с повышенной надежностью и игровой производительностью"
+    },
+    {
+      "title": "Nvidia 1050Ti",
+      "type": "Накопители",
+      "price": 899,
+      "img": "https://www.goha.ru/s/A:Ca/Z1/j5Z14KFMzV.jpg",
+      "description": "ASUS Cerberus GeForce GTX 1050 Ti OC Edition - это высокопроизводительная графическая карта, которая спроектирована с повышенной надежностью и игровой производительностью"
+    },
+    {
+      "title": "Nvidia 1050Ti",
+      "type": "Периферийное оборудование",
+      "price": 899,
+      "img": "https://microsofters.com/wp-content/uploads/2018/09/razer-huntsman-gallery07.jpg",
+      "description": "ASUS Cerberus GeForce GTX 1050 Ti OC Edition - это высокопроизводительная графическая карта, которая спроектирована с повышенной надежностью и игровой производительностью"
+    },
+    {
+      "title": "Nvidia 1050Ti",
+      "type": "Корпус",
+      "price": 899,
+      "img": "https://www.newegg.com/insider/wp-content/uploads/2018/12/Building-beginner-PC-header.jpg",
       "description": "ASUS Cerberus GeForce GTX 1050 Ti OC Edition - это высокопроизводительная графическая карта, которая спроектирована с повышенной надежностью и игровой производительностью"
     }
   ]

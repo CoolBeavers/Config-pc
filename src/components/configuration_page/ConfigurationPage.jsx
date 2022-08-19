@@ -9,7 +9,11 @@ const ConfigurationPage = () => {
   return (
     <div>
       <p className={s.header}>Собери свою мечту</p>
-      <ConfigurationItem img={data[0].img} type={data[0].type} title={data[0].title} description={data[0].description} price={'$' + data[0].price}/>
+      <div className={s.items}>
+        {data.map((item) => (
+          <ConfigurationItem img={item.img} type={item.type} title={item.title} description={item.description} price={'$' + item.price}/>
+        ))}
+      </div>
     </div>
   )
 }

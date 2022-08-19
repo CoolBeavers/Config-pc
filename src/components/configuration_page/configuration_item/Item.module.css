@@ -1,9 +1,9 @@
 .bg {
-  @apply bg-gray-900 rounded-lg border border-gray-800 w-full max-w-sm shadow-md 
+  @apply bg-gray-900 rounded-lg border border-gray-800 w-full max-w-sm shadow-md
 }
 
 .img {
-  @apply rounded-t-lg
+  @apply rounded-t-lg w-full h-60
 }
 
 .type {
@@ -11,11 +11,15 @@
 }
 
 .header {
-  @apply mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white
+  @apply mb-2 text-2xl font-semibold tracking-tight text-gray-900 dark:text-white
 }
 
 .desc {
   @apply mb-3 font-normal text-gray-700 dark:text-gray-400
+}
+
+.block__desc {
+  @apply p-7 h-[310px] flex flex-col justify-between
 }
 
 .price {

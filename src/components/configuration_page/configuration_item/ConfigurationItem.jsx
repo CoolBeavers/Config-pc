@@ -5,15 +5,17 @@ import s from './Item.module.css'
 
 const ConfigurationItem = (props) => {
   return (
-    <Link to={'/list'}>
+    <Link to={'/list'} className='pt-5'>
       <div className={s.bg}>
         <img className={s.img} src={props.img} alt="" />
-        <div className="p-7">
-          <p className={s.type}>{props.type}</p>
-          <a href="#">
-            <h5 className={s.header}>{props.title}</h5>
-          </a>
-          <p className={s.desc}>{props.description}</p>
+        <div className={s.block__desc}>
+          <div>
+            <p className={s.type}>{props.type}</p>
+            <a href="#">
+              <h5 className={s.header}>{props.title}</h5>
+            </a>
+            <p className={s.desc}>{props.description}</p>
+          </div>
           <div className={s.btn__box}>
             <span className={s.price}>{props.price}</span>  
             <a href="#" className={s.btn}> Изменить

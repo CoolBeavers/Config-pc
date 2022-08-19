@@ -1,5 +1,5 @@
 .block {
-  @apply flex justify-between mt-16
+  @apply flex justify-around mt-16 flex-wrap lg:mt-5
 }
 
 .block__inner {
@@ -7,11 +7,11 @@
 }
 
 .header {
-  @apply text-8xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-[#E55D87] to-[#A06EF3]
+  @apply text-8xl lg:text-7xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-[#E55D87] to-[#A06EF3]
 }
 
 .header__inner {
-  @apply text-xl mt-10 w-[600px]
+  @apply text-xl mt-10 w-[600px] lg:text-base lg:mt-8 lg:w-[500px]
 }
 
 .link {
@@ -22,6 +22,10 @@
   @apply underline decoration-2 underline-offset-4 decoration-[#E55D87]
 }
 
+.block__img {
+  @apply bg-gradient-to-r from-[#E55D87] to-[#A06EF3] rounded-full lg:max-h-full
+}
+
 .img {
-  @apply absolute w-[600px] h-[600px]
+  @apply drop-shadow-3xl lg:max-h-[500px]
 }

@@ -15,7 +15,7 @@ const App = () => {
   const isAuth = path === '/login' || path === '/registration';
 
   return (
-    <div className={isAuth ? 'bg-[#1C1C1C] px-[150px] text-[#BABABA]' : 'bg-[#1C1C1C] px-[150px] text-[#BABABA] min-h-[100vh]'}>
+    <div className={isAuth ? 'bg-[#1C1C1C] px-[150px] text-[#BABABA]' : 'bg-[#1C1C1C] px-[150px] text-[#BABABA] min-h-screen'}>
       {isAuth ? undefined : <Navbar/>}
       <Routes>
         <Route path="/" element={<Title/>}/>

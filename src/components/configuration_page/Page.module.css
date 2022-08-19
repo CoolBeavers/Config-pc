@@ -1,3 +1,7 @@
 .header {
-  @apply font-bold text-4xl mb-24
+  @apply font-bold text-4xl mb-20 lg:mb-12
+}
+
+.items {
+  @apply flex justify-between flex-wrap pb-5
 }
